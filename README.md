@@ -1,16 +1,43 @@
-## Hi there 👋
+# 🌸 Hatice Nur Barkay
 
-<!--
-**nurbarkay-ship-it/nurbarkay-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+╔══════════════════════════════╗
+║      42 JOURNEY LOADING      ║
+╚══════════════════════════════╝
+```
 
-Here are some ideas to get you started:
+💻 Computer Programming Graduate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🦄 Future 42 Student
+
+🌸 Lotus Mindset
+
+🚀 August Piscine Loading...
+
+---
+
+## 📚 Current Focus
+
+- C Programming
+- 42 Piscine Preparation
+- Git & GitHub
+- Algorithms
+- Exam Rank 02
+
+---
+
+## 🎯 2026 Goals
+
+☑ Rank 00
+
+☑ Rank 01
+
+🔄 Rank 02
+
+⏳ August Piscine
+
+⏳ Main Program
+
+---
+
+> "Hayal et. Çalış. Vazgeçme."
