@@ -41,3 +41,6 @@
 ---
 
 > "Hayal et. Çalış. Vazgeçme."
+>## 🐍 Contribution Snake
+
+![snake](https://github.com/nurbarkay-ship-it/nurbarkay-ship-it/blob/output/github-contribution-grid-snake.svg)
