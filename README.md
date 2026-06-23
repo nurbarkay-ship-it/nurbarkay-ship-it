@@ -1,46 +1,23 @@
 # 🌸 Hatice Nur Barkay
 
-```text
-╔══════════════════════════════╗
-║      42 JOURNEY LOADING      ║
-╚══════════════════════════════╝
-```
-
-💻 Computer Programming Graduate
-
-🦄 Future 42 Student
-
-🌸 Lotus Mindset
-
-🚀 August Piscine Loading...
+Computer Programming Graduate  
+Learning C, Git and problem solving.
 
 ---
 
-## 📚 Current Focus
+### Currently Learning
 
 - C Programming
-- 42 Piscine Preparation
 - Git & GitHub
-- Algorithms
-- Exam Rank 02
+- Algorithms Basics
+- Problem Solving
 
 ---
 
-## 🎯 2026 Goals
+### Focus
 
-☑ Rank 00
-
-☑ Rank 01
-
-🔄 Rank 02
-
-⏳ August Piscine
-
-⏳ Main Program
+Building small projects, practicing every day, and improving step by step.
 
 ---
 
-> "Hayal et. Çalış. Vazgeçme."
->## 🐍 Contribution Snake
-
-![snake](https://github.com/nurbarkay-ship-it/nurbarkay-ship-it/blob/output/github-contribution-grid-snake.svg)
+> Code. Learn. Grow.
